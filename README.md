@@ -1,16 +1,29 @@
-### Hi there 👋
+### 🌱 My skill and still learning:  
 
-<!--
-**PonyPC/PonyPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|  Language   | Level      |  
+|  ----       | ----       |  
+| Pascal      | ★★★★★ |  
+| PHP         | ★★★★★ |  
+| Python      | ★★★★★ |  
+| Flutter     | ★★★☆☆ | 
+| JavaScript  | ★★★☆☆ | 
+| C/C++       | ★★☆☆☆ |  
+| C#          | ★★☆☆☆ |  
+| Java        | ★★☆☆☆ | 
 
-Here are some ideas to get you started:
+|  Field   | Level |  
+|  ----    | ----  |  
+| Linux    | ★★★★★ |  
+| Windows  | ★★★★★ |  
+| SQL      | ★★★★★ |  
+| Nginx    | ★★★★★ |  
+| Blockchain       | ★★★★☆ |  
+| FFmpeg           | ★★★☆☆ |  
+| Machine Learning | ★★★☆☆ |  
+| PCB Design       | ★★☆☆☆ |  
+| 3D Model         | ★★☆☆☆ |  
+| Robotic          | ★★☆☆☆ |  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 15 years programmer since junior high school
+- 8 years designed software and hardware product in start-up, almost solo
+- hire me if you need a cooperator
